@@ -1,0 +1,1 @@
+The Bright Coffee Shop dataset contains transactional records, including product type pricing, quantity sold, and timestamps. The new CEO is focused on increasing revenue and product performance. This project aims to uncover key insights using SQL, Excel, and data visualization techniques
